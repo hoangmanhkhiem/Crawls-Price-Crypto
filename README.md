@@ -36,11 +36,7 @@ For testing RSpec is used. To run test run the following command line.
 
 ## Author
 
-👤 **Ebeagu Samuel**
-
-- Github: [@ebeagusamuel](https://github.com/ebeagusamuel)
-- Twitter: [@ebeagu_samuel](https://twitter.com/ebeagu_samuel)
-- Linkedin: [linkedin](https://linkedin.com/in/ebeagu-samuel)
+👤 **Hoang Manh Khiem**
 
 ## 🤝 Contributing
 
