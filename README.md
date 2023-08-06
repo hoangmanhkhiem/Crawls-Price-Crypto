@@ -1,4 +1,4 @@
-## Webscrapper Built With Ruby
+## Crawls Data Built With Ruby
 > This is a simple web scrapper that   basically crawls a website and retrives  specific data from the site. 
 
 #### For this particular project, we will be scrapping https://coinmarketcap.com/ which is a website that provides information on different cryptocurrencies and we will be retrieving the following data:
@@ -9,7 +9,7 @@
 - Circulating supply
 - Change(%)
 
-![Screenshot from 2020-06-03 00-38-56](https://user-images.githubusercontent.com/57847212/83581361-7e0fc080-a536-11ea-8cfb-53604657d0c8.png)
+![Screenshot](https://github.com/hoangmanhkhiem/Crawls-Price-Crypto/blob/main/assests/test2.png)
  
 ### Built With
 - Ruby
